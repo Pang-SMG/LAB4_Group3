@@ -18,7 +18,6 @@ Username JiradetN
 รหัสนักศึกษา 643021235-6
 Section 2
 Username Nisrinelyn
-(/media/643021235-6-copy.jpg)
 
 สมาชิกคนที่ 4
 ชื่อ-นามสกุล นายณภัทร์ อนันตริยะทรัพย์
