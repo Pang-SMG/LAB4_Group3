@@ -31,4 +31,8 @@ Username napatan
 Section 2
 Username mynameisrattaket
 
-
+สมาชิกคนที่ 6
+ชื่อ-นามสกุล นางสาวชลธิชา ลีปรีชา
+รหัสนักศึกษา 643020041-4
+Section 2
+Username ChonthichaG041-4
