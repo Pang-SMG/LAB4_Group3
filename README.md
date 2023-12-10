@@ -7,6 +7,12 @@ For lab 4 group work only
 Section 2
 Username Pang-SMG
 
+สมาชิกคนที่ 2
+ชื่อ-นามสกุล นายจิรเดช นาคำ
+รหัสนักศึกษา 643020468-8
+Section 2
+Username JiradetN
+
 
 
 
